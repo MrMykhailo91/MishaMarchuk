@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.basket {
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  background: none;
+  border: none;
+}/*# sourceMappingURL=App.css.map */

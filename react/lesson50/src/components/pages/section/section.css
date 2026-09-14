@@ -1,0 +1,31 @@
+.section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 120px;
+}
+
+.section__item {
+    display: grid;
+    grid-template-columns: repeat(2, 605px);
+    grid-template-rows: repeat(2, 253px);
+    gap: 47px 30px;
+    z-index: 0;
+}
+
+.section__button {
+    position: relative;
+    top: -20%;
+    left: 25%;
+    width: 276px;
+    height: 67px;
+    background: #f5eee0;
+    color: #705a66;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    border-radius: 10px;
+    border: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    z-index: 1;
+}

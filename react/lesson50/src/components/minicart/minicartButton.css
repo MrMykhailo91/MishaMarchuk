@@ -1,0 +1,11 @@
+.basket {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.counter {
+    margin-left: 5px;
+    position: absolute;
+    right: -20px;
+}

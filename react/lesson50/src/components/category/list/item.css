@@ -1,0 +1,9 @@
+.gallery-item-name-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.gallery-item-basket {
+    cursor: pointer;
+    background: none;
+}
